@@ -1,0 +1,389 @@
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+echo '|-> /root/.bashrc'
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none
+sed -i '1i[[ $- == *i* ]] && source "$HOME/.local/share/blesh/ble.sh" --attach=none' $HOME/.bashrc
+
+# .bashrc
+
+
+# User specific aliases and functions
+
+alias rm='rm -i'
+alias cp='cp -i'
+alias mv='mv -i'
+alias ll='ls -l'
+alias tree="env LANG=C tree"
+alias grep='grep --color=auto -i'
+alias df='df -hT'
+alias ls='ls --color=auto -h -F'
+alias chrome='/usr/bin/google-chrome --no-sandbox'
+alias RS="rsync -avz --delete -e ssh"
+alias LS="rsync -a --delete"
+alias fwcmd='firewall-cmd --permanent'
+alias fwreload='firewall-cmd --reload'
+alias fwlist='firewall-cmd --list-all'
+alias ttt='chmod 700 /root/bin/*.sh'
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+	. /etc/bashrc
+fi
+
+# Sfecific configuration
+#
+export PS1='\[\e[31;1m\][\u@\h\[\e[33;1m\] \w]\$ \[\e[m\]'
+export LANG='en_US.UTF-8'
+sed -i '$a[[ ${BLE_VERSION-} ]] && ble-attach' $HOME/.bashrc
+
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
+[[ ${BLE_VERSION-} ]] && ble-attach
